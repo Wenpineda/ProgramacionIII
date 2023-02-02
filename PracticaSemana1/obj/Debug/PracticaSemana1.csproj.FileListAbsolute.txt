@@ -1,0 +1,8 @@
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\bin\Debug\PracticaSemana1.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\bin\Debug\PracticaSemana1.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\bin\Debug\PracticaSemana1.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\obj\Debug\PracticaSemana1.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\obj\Debug\PracticaSemana1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\obj\Debug\PracticaSemana1.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\obj\Debug\PracticaSemana1.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaSemana1\obj\Debug\PracticaSemana1.pdb
