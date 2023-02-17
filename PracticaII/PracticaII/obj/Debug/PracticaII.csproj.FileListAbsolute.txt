@@ -1,0 +1,16 @@
+D:\PracticaII\PracticaII\bin\Debug\PracticaII.exe.config
+D:\PracticaII\PracticaII\bin\Debug\PracticaII.exe
+D:\PracticaII\PracticaII\bin\Debug\PracticaII.pdb
+D:\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.AssemblyReference.cache
+D:\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.SuggestedBindingRedirects.cache
+D:\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.CoreCompileInputs.cache
+D:\PracticaII\PracticaII\obj\Debug\PracticaII.exe
+D:\PracticaII\PracticaII\obj\Debug\PracticaII.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\bin\Debug\PracticaII.exe.config
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\bin\Debug\PracticaII.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\bin\Debug\PracticaII.pdb
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.AssemblyReference.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.SuggestedBindingRedirects.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\obj\Debug\PracticaII.csproj.CoreCompileInputs.cache
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\obj\Debug\PracticaII.exe
+C:\Users\cance\OneDrive\Escritorio\CICLOS\CICLO V\Programacion III\PracticaII\PracticaII\obj\Debug\PracticaII.pdb
