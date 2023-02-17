@@ -1,0 +1,8 @@
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\bin\Debug\Inmobiliarios.exe.config
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\bin\Debug\Inmobiliarios.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\bin\Debug\Inmobiliarios.pdb
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\obj\Debug\Inmobiliarios.csproj.AssemblyReference.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\obj\Debug\Inmobiliarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\obj\Debug\Inmobiliarios.csproj.CoreCompileInputs.cache
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\obj\Debug\Inmobiliarios.exe
+C:\Users\jordy\OneDrive\Documentos\JC\Guia\Inmobiliarios\Inmobiliarios\obj\Debug\Inmobiliarios.pdb
